@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+// It will be ecommerce project
 
 function App() {
   return (
